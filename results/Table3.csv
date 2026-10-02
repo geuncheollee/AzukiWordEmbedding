@@ -1,0 +1,9 @@
+Predictor,Configuration
+OLS,LinearRegression; fit_intercept=True
+Ridge,"RidgeCV; alphas=[0.1, 1.0, 10.0]; cv=None (generalized cross-validation)"
+Lasso,LassoCV; cv=3; n_alphas=100; max_iter=100000; tol=0.0001; random_state=42
+PLS,PLSRegression; n_components=20; scale=True; max_iter=1000; tol=0.000001
+Random Forest,n_estimators=100; max_features=1.0; max_depth=None; random_state=42
+XGBoost,n_estimators=100; learning_rate=0.1; max_depth=6; tree_method=hist; random_state=42
+LightGBM,n_estimators=100; learning_rate=0.1; num_leaves=31; random_state=42
+LinearSVR,C=1.0; epsilon=0.0; loss=epsilon_insensitive; max_iter=100000; tol=0.0001; random_state=42

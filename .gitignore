@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+analysis_env/
+rerun_results/
+.env
+.env.*
+*.pem
+*.key
+azuki_all_trades.csv
+glove.6B.300d.txt
+wiki-news-300d-1M.vec
+*.zip
+*.docx

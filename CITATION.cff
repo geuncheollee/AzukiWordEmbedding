@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite this repository when using the numerical data or code."
+type: dataset
+title: "Numerical data and code for A Comparative Valuation of Digital Assets Through Text Representation and Predictive Models in the NFT Market"
+authors:
+  - family-names: Lee
+    given-names: Geun-Cheol
+  - family-names: Koo
+    given-names: Hoon-Young
+  - family-names: Jeong
+    given-names: Myong K.
+  - family-names: Lee
+    given-names: Heejung
+version: peerj-20261002
+date-released: 2026-10-02
+url: "https://github.com/geuncheollee/AzukiWordEmbedding"
+repository-code: "https://github.com/geuncheollee/AzukiWordEmbedding"

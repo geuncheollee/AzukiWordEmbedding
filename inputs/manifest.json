@@ -1,0 +1,32 @@
+[
+  {
+    "file": "FastText.npz",
+    "bytes": 19622259,
+    "sha256": "f204e61e124328df1da00eb882c39bdfacdf0f28d37b37e873a1f5b8d7847fc7"
+  },
+  {
+    "file": "GloVe.npz",
+    "bytes": 20124866,
+    "sha256": "578a7a1382cc30bdeec6dc5bd2eb0cb7952751ba2e73ba6eb8b784eb3851a29a"
+  },
+  {
+    "file": "GTE.npz",
+    "bytes": 25736411,
+    "sha256": "e0ec459238bb329feeca308f4c8fafe046d5686d65fd59750019451afead32a5"
+  },
+  {
+    "file": "Sentence-BERT.npz",
+    "bytes": 25889782,
+    "sha256": "f802c2a7db0a34c0cc9b57e26b86daaf5eb55b7140e123f6250aebf585bd5f26"
+  },
+  {
+    "file": "split_token_ids.json",
+    "bytes": 313934,
+    "sha256": "8744989bb690e8c15a806c420dfd7ab5d1dd3aefbbb69962e37fa6ecf0532043"
+  },
+  {
+    "file": "trait_descriptions.csv",
+    "bytes": 1430421,
+    "sha256": "db007207f86e90d3acd20153a20ebfc3e606b067738647119b062ac01ea6c6f4"
+  }
+]

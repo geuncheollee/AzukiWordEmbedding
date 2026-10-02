@@ -1,0 +1,52 @@
+{
+  "run_time_utc": "2026-10-02T05:38:28.963954+00:00",
+  "python": "3.9.12 (main, Apr  4 2022, 05:22:27) [MSC v.1916 64 bit (AMD64)]",
+  "numpy": "1.21.5",
+  "pandas": "1.4.2",
+  "scipy": "1.7.3",
+  "scikit_learn": "1.0.2",
+  "xgboost": "2.1.4",
+  "lightgbm": "4.6.0",
+  "os": "Windows-10-10.0.26200-SP0",
+  "cpu": "Intel Core i7-8700K @ 3.70 GHz (verified Windows processor registry)",
+  "gpu": "not used for this frozen-matrix model comparison",
+  "blas_threads": 2,
+  "estimator_threads": 4,
+  "runtime_seconds": 461.4207611,
+  "scope": "Consistent model comparison on exact preserved partitions; TF-IDF refitted within each training partition when frozen input archive is used; original pretrained embedding-generation versions unrecorded",
+  "models": {
+    "Lasso": {
+      "alphas": null,
+      "copy_X": true,
+      "cv": 3,
+      "eps": 0.001,
+      "fit_intercept": true,
+      "max_iter": 100000,
+      "n_alphas": 100,
+      "n_jobs": 2,
+      "normalize": "deprecated",
+      "positive": false,
+      "precompute": "auto",
+      "random_state": 42,
+      "selection": "cyclic",
+      "tol": 0.0001,
+      "verbose": false
+    },
+    "LinearSVR": {
+      "C": 1.0,
+      "dual": true,
+      "epsilon": 0.0,
+      "fit_intercept": true,
+      "intercept_scaling": 1.0,
+      "loss": "epsilon_insensitive",
+      "max_iter": 100000,
+      "random_state": 42,
+      "tol": 0.0001,
+      "verbose": 0
+    }
+  },
+  "adjusted_r2": "1-(1-R2)*(n-1)/(n-p-1); no negative-value clipping or exception substitution",
+  "assembly": "Tree/OLS/Ridge/PLS runs + training-fitted TF-IDF runs + converged Lasso/LinearSVR runs; same inputs, partitions, software versions and settings except documented increased iteration caps.",
+  "all_280_scores_converged": true,
+  "figure_software": "R 4.5.3; base graphics and grDevices"
+}
