@@ -1,7 +1,7 @@
 cff-version: 1.2.0
-message: "Please cite this repository when using the numerical data or code."
+message: "Please cite this repository and the exact Git commit used."
 type: dataset
-title: "Numerical data and code for A Comparative Valuation of Digital Assets Through Text Representation and Predictive Models in the NFT Market"
+title: "Numerical data and code for A comparative valuation of digital assets through text representation and predictive models in the non-fungible token market"
 authors:
   - family-names: Lee
     given-names: Geun-Cheol
@@ -11,7 +11,14 @@ authors:
     given-names: Myong K.
   - family-names: Lee
     given-names: Heejung
-version: peerj-20261002
-date-released: 2026-10-02
+version: peerj-ai-application-20261010
 url: "https://github.com/geuncheollee/AzukiWordEmbedding"
 repository-code: "https://github.com/geuncheollee/AzukiWordEmbedding"
+abstract: >-
+  Repository revision for the PeerJ Computer Science AI Application
+  resubmission. Numerical inputs and results are unchanged from peerj-20261002,
+  commit e46537227018997c431cbce76775359f3c943a19. Revised documentation and
+  author-supplied SQL describe transaction-data access; the original Dune
+  transaction CSV is not redistributed. The code reproduces the predictor
+  comparison from supplied derived inputs. Cite the exact Git commit used;
+  a corresponding new release tag and archival DOI have not yet been assigned.
