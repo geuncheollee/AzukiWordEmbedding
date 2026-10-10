@@ -1,0 +1,20 @@
+Licensing of AzukiWordEmbedding
+Version: peerj-ai-application-20261010
+
+Copyright (c) 2026 Geun-Cheol Lee, Hoon-Young Koo, Myong K. Jeong, and Heejung Lee, to the extent of their respective rights.
+
+1. Author-written code
+The author-written code in recompute_comparison.py, verify_results.py, draw_figure.R, and provenance/azuki_trades_query.sql is licensed under the MIT License. The complete terms are in LICENSES/MIT.txt.
+
+2. Author-owned derived data and documentation
+The authors license their copyright and applicable database rights in the derived modeling inputs (inputs/), analysis results (results/), figures (Figures/), README files, citation and provenance documentation, model configurations, and other author-created supporting documentation under Creative Commons Attribution 4.0 International (CC BY 4.0). The complete terms are in LICENSES/CC-BY-4.0.txt and at https://creativecommons.org/licenses/by/4.0/.
+
+Retain appropriate attribution and license notices and indicate modifications as required by the applicable license. Cite the authors and the version identified by CITATION.cff and the archival DOI when available. The two licenses apply to the different categories above; they are not alternative licenses for every file.
+
+3. Third-party materials and underlying rights
+These grants apply only to rights held by the authors. They do not relicense collection_metadata/azuki_metadata_10000.csv or underlying Azuki names, trait vocabulary, artwork, trademarks, source transaction records, pretrained model resources, or third-party software. Any third-party rights embedded in derived materials remain with their respective holders. Consult the providers' applicable terms and the provenance information in README Section 3.
+
+The original Dune transaction CSV and pretrained model weights are not distributed. No license or redistribution permission for those excluded materials is asserted by this package. The supplied SQL is author-provided code; its MIT license does not grant rights in data obtained by running it.
+
+4. Archive metadata
+The Zenodo legacy GitHub importer accepts a single license identifier. Its Other (Open) label represents this package's mixed MIT and CC BY 4.0 terms, subject to the file scopes and third-party exclusions above. The archive description identifies both licenses. This label does not grant additional rights or apply a blanket license to third-party materials.

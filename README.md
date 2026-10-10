@@ -6,7 +6,7 @@
 
 **Authors:** Geun-Cheol Lee, Hoon-Young Koo, Myong K. Jeong, and Heejung Lee.
 
-**Repository revision:** `peerj-ai-application-20261010` (10 October 2026), prepared for an AI Application resubmission to PeerJ Computer Science. This identifier labels the revised documentation and data-access materials. Cite the exact Git commit used; a corresponding release tag and archival DOI have not yet been assigned.
+**Repository revision:** `peerj-ai-application-20261010` (10 October 2026), prepared for an AI Application resubmission to PeerJ Computer Science. This version includes revised documentation, data-access materials, and author-approved licensing. Use the release tag and its associated source commit to identify the archived package. The release page provides the archival DOI once Zenodo processing is complete: https://github.com/geuncheollee/AzukiWordEmbedding/releases/tag/peerj-ai-application-20261010
 
 Repository: https://github.com/geuncheollee/AzukiWordEmbedding
 
@@ -286,7 +286,7 @@ These identify resources, not preserved checkpoint revision hashes. Model weight
 
 # 8. Citations
 
-When using this repository, cite the study authors, manuscript title, repository URL, revision identifier `peerj-ai-application-20261010` recorded in `CITATION.cff`, and the exact Git commit used. The existing tag `peerj-20261002` identifies the archived numerical baseline, not this revised documentation or retrieval SQL. An archival DOI and corresponding new release tag have not yet been assigned; no journal DOI is asserted.
+When using this repository, cite the study authors, manuscript title, repository URL, revision identifier `peerj-ai-application-20261010` recorded in `CITATION.cff`, and the exact Git commit used. The existing tag `peerj-20261002` identifies the archived numerical baseline, not this revised documentation or retrieval SQL. The resubmission release is available at https://github.com/geuncheollee/AzukiWordEmbedding/releases/tag/peerj-ai-application-20261010. Use its Zenodo archival DOI when available; no journal article DOI is asserted.
 
 Suggested study reference:
 Lee, G.-C., Koo, H.-Y., Jeong, M. K., and Lee, H. A comparative valuation of digital assets through text representation and predictive models in the non-fungible token market. Manuscript submitted to PeerJ Computer Science. Data and code: https://github.com/geuncheollee/AzukiWordEmbedding.
@@ -304,7 +304,7 @@ See the manuscript References for predictor-method citations and Section 3 for t
 
 # 9. License & Contribution Guidelines
 
-No standalone LICENSE file or blanket open license has been assigned in this package. This documentation does not grant an MIT, Apache, or CC-BY license to the code, derived data, or third-party materials. Contact the corresponding author to clarify reuse permissions. Public repository access is separate from a license grant.
+Author-written code is licensed under MIT. Author-owned derived data and documentation are licensed under CC BY 4.0. See `LICENSE.txt` for file scopes and attribution requirements and `LICENSES/` for the complete license texts. These are separate grants for code and data/documentation, not a choice of licenses for every file. Third-party collection metadata and underlying third-party rights are excluded from these grants. The Zenodo archive uses the label Other (Open) with both licenses and their scopes stated in its description because its legacy GitHub importer accepts a single license identifier.
 
 The original Dune export remains excluded while redistribution permission is unverified. Pretrained resource identifiers and derived matrices do not authorize redistribution of model weights. Refer to the respective providers' terms; no additional permission is inferred here. The historical provenance review referenced https://dune.com/terms, https://dune.com/sql-api-terms, and https://dune.com/enterprise.
 

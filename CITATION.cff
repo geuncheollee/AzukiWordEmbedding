@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "Please cite this repository and the exact Git commit used."
+message: "Please cite this version, its source commit, and its Zenodo archival DOI when available."
 type: dataset
 title: "Numerical data and code for A comparative valuation of digital assets through text representation and predictive models in the non-fungible token market"
 authors:
@@ -12,6 +12,11 @@ authors:
   - family-names: Lee
     given-names: Heejung
 version: peerj-ai-application-20261010
+date-released: 2026-10-10
+license:
+  - MIT
+  - CC-BY-4.0
+license-url: "https://github.com/geuncheollee/AzukiWordEmbedding/blob/peerj-ai-application-20261010/LICENSE.txt"
 url: "https://github.com/geuncheollee/AzukiWordEmbedding"
 repository-code: "https://github.com/geuncheollee/AzukiWordEmbedding"
 abstract: >-
@@ -20,5 +25,7 @@ abstract: >-
   commit e46537227018997c431cbce76775359f3c943a19. Revised documentation and
   author-supplied SQL describe transaction-data access; the original Dune
   transaction CSV is not redistributed. The code reproduces the predictor
-  comparison from supplied derived inputs. Cite the exact Git commit used;
-  a corresponding new release tag and archival DOI have not yet been assigned.
+  comparison from supplied derived inputs. Author-written code is MIT-licensed;
+  author-owned derived data and documentation are CC BY 4.0. Third-party rights
+  are excluded as detailed in LICENSE.txt. Cite the version, source commit,
+  and Zenodo archival DOI linked from the release page when available.

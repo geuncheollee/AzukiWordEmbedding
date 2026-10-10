@@ -1,0 +1,38 @@
+{
+  "title": "Numerical data and code for A comparative valuation of digital assets through text representation and predictive models in the non-fungible token market",
+  "creators": [
+    {
+      "name": "Lee, Geun-Cheol"
+    },
+    {
+      "name": "Koo, Hoon-Young"
+    },
+    {
+      "name": "Jeong, Myong K."
+    },
+    {
+      "name": "Lee, Heejung"
+    }
+  ],
+  "description": "<p>Data and code accompanying the manuscript <em>A comparative valuation of digital assets through text representation and predictive models in the non-fungible token market</em>, submitted to PeerJ Computer Science as an AI Application.</p><p>The package includes collection metadata, derived modeling inputs for 8,850 tokens, frozen feature matrices, fixed split identifiers, analysis and verification code, configurations, predictions, scores, and documentation for 40 representation/predictor configurations. Numerical inputs and results are unchanged from the peerj-20261002 baseline. This version adds revised documentation, author-provided SQL for Azuki transaction retrieval, citation information, and author-approved licensing.</p><p>The original Dune transaction CSV and pretrained model weights are excluded. The SQL is provided for data access and was not re-executed for this release; it does not guarantee reconstruction of the exact historical export. Reproduction starts from the supplied derived inputs.</p><p><strong>Licenses:</strong> author-written code: MIT (https://opensource.org/license/mit); author-owned derived data and documentation: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). These licenses apply to separate file categories, as specified in LICENSE.txt. Third-party collection metadata and underlying third-party rights are excluded from the grants. The record's Other (Open) label denotes these mixed terms, not a new blanket license.</p>",
+  "version": "peerj-ai-application-20261010",
+  "publication_date": "2026-10-10",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "other-open",
+  "language": "eng",
+  "keywords": [
+    "non-fungible tokens",
+    "Azuki",
+    "text representations",
+    "predictive modeling",
+    "reproducibility"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/geuncheollee/AzukiWordEmbedding/releases/tag/peerj-ai-application-20261010",
+      "relation": "isIdenticalTo",
+      "scheme": "url"
+    }
+  ]
+}
