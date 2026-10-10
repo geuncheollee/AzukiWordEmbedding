@@ -6,7 +6,7 @@
 
 **Authors:** Geun-Cheol Lee, Hoon-Young Koo, Myong K. Jeong, and Heejung Lee.
 
-**Repository revision:** `peerj-ai-application-20261010` (10 October 2026), prepared for an AI Application resubmission to PeerJ Computer Science. This version includes revised documentation, data-access materials, and author-approved licensing. Use the release tag and its associated source commit to identify the archived package. The release page provides the archival DOI once Zenodo processing is complete: https://github.com/geuncheollee/AzukiWordEmbedding/releases/tag/peerj-ai-application-20261010
+**Repository revision:** `peerj-ai-application-20261010` (10 October 2026), prepared for an AI Application resubmission to PeerJ Computer Science. This version includes revised documentation, data-access materials, and author-approved licensing. Use the release tag and its associated source commit to identify the archived package. Archived release DOI: https://doi.org/10.5281/zenodo.23278765. Release: https://github.com/geuncheollee/AzukiWordEmbedding/releases/tag/peerj-ai-application-20261010. Archived source commit: `18c43df6fa302ca5483e118284617c1dd3226867`. The main-branch README and citation metadata add this DOI after archival; the release tag and archived files remain fixed.
 
 Repository: https://github.com/geuncheollee/AzukiWordEmbedding
 
@@ -286,7 +286,10 @@ These identify resources, not preserved checkpoint revision hashes. Model weight
 
 # 8. Citations
 
-When using this repository, cite the study authors, manuscript title, repository URL, revision identifier `peerj-ai-application-20261010` recorded in `CITATION.cff`, and the exact Git commit used. The existing tag `peerj-20261002` identifies the archived numerical baseline, not this revised documentation or retrieval SQL. The resubmission release is available at https://github.com/geuncheollee/AzukiWordEmbedding/releases/tag/peerj-ai-application-20261010. Use its Zenodo archival DOI when available; no journal article DOI is asserted.
+When using this repository, cite the study authors, manuscript title, repository URL, revision identifier `peerj-ai-application-20261010` recorded in `CITATION.cff`, and the exact Git commit used. The existing tag `peerj-20261002` identifies the archived numerical baseline, not this revised documentation or retrieval SQL. The resubmission release is available at https://github.com/geuncheollee/AzukiWordEmbedding/releases/tag/peerj-ai-application-20261010. Cite the version-specific Zenodo DOI https://doi.org/10.5281/zenodo.23278765 for the archived package at commit `18c43df6fa302ca5483e118284617c1dd3226867`; this is a data/code DOI, not a journal article DOI.
+
+Archived data/code citation:
+Lee, G.-C., Koo, H.-Y., Jeong, M. K., and Lee, H. (2026). Numerical data and code for A comparative valuation of digital assets through text representation and predictive models in the non-fungible token market (peerj-ai-application-20261010) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.23278765
 
 Suggested study reference:
 Lee, G.-C., Koo, H.-Y., Jeong, M. K., and Lee, H. A comparative valuation of digital assets through text representation and predictive models in the non-fungible token market. Manuscript submitted to PeerJ Computer Science. Data and code: https://github.com/geuncheollee/AzukiWordEmbedding.

@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "Please cite this version, its source commit, and its Zenodo archival DOI when available."
+message: "Please cite the archived version using DOI 10.5281/zenodo.23278765."
 type: dataset
 title: "Numerical data and code for A comparative valuation of digital assets through text representation and predictive models in the non-fungible token market"
 authors:
@@ -12,6 +12,7 @@ authors:
   - family-names: Lee
     given-names: Heejung
 version: peerj-ai-application-20261010
+doi: 10.5281/zenodo.23278765
 date-released: 2026-10-10
 license:
   - MIT
@@ -28,4 +29,6 @@ abstract: >-
   comparison from supplied derived inputs. Author-written code is MIT-licensed;
   author-owned derived data and documentation are CC BY 4.0. Third-party rights
   are excluded as detailed in LICENSE.txt. Cite the version, source commit,
-  and Zenodo archival DOI linked from the release page when available.
+  and Zenodo DOI 10.5281/zenodo.23278765. The archived source commit is
+  18c43df6fa302ca5483e118284617c1dd3226867. This main-branch citation metadata
+  adds the DOI after archival; the release tag and archived files remain fixed.
